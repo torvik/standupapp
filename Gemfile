@@ -13,6 +13,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
+gem 'jquery-rails'
 
 gem 'aasm'
 gem 'lodash-rails'
@@ -52,7 +53,8 @@ group :development, :test do
 end
 
 gem 'simplecov', :require => false, :group => :test
-gem "factory_girl_rails", "~> 4.0"
+#gem "factory_girl_rails", "~> 4.0"
+gem 'factory_bot'
 
 group :development do
   gem "letter_opener"
