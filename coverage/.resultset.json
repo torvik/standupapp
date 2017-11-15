@@ -1,43 +1,111 @@
 {
   "RSpec": {
     "coverage": {
-      "/vagrant/standupapp/app/models/user.rb": [
+      "/vagrant/standup_app/app/models/user.rb": [
         1,
         null,
         null,
         1,
         null,
+        1,
+        null,
         null
       ],
-      "/vagrant/standupapp/app/models/application_record.rb": [
+      "/vagrant/standup_app/app/models/application_record.rb": [
         1,
         1,
         null
       ],
-      "/vagrant/standupapp/app/helpers/activity_helper.rb": [
+      "/vagrant/standup_app/app/helpers/activity_helper.rb": [
         1,
         null
       ],
-      "/vagrant/standupapp/app/helpers/application_helper.rb": [
+      "/vagrant/standup_app/app/helpers/application_helper.rb": [
         1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0,
+        null,
+        1,
+        0,
+        0,
+        0,
+        null,
+        0,
+        null,
+        null,
+        0,
+        null,
+        null,
+        null,
+        null,
         null
       ],
-      "/vagrant/standupapp/app/mailers/application_mailer.rb": [
+      "/vagrant/standup_app/app/helpers/devise_helper.rb": [
+        1,
+        1,
+        0,
+        null,
+        0,
+        null,
+        0,
+        null,
+        null,
+        null,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0,
+        null,
+        null
+      ],
+      "/vagrant/standup_app/app/channels/application_cable/channel.rb": [
         0,
         0,
         0,
         0
       ],
-      "/vagrant/standupapp/app/jobs/application_job.rb": [
+      "/vagrant/standup_app/app/channels/application_cable/connection.rb": [
+        0,
+        0,
         0,
         0
       ],
-      "/vagrant/standupapp/app/controllers/application_controller.rb": [
+      "/vagrant/standup_app/app/controllers/accounts_controller.rb": [
+        0,
+        null,
         0,
         0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        null,
         0
       ],
-      "/vagrant/standupapp/app/controllers/activity_controller.rb": [
+      "/vagrant/standup_app/app/controllers/activity_controller.rb": [
         0,
         0,
         0,
@@ -46,19 +114,43 @@
         0,
         0
       ],
-      "/vagrant/standupapp/app/channels/application_cable/connection.rb": [
+      "/vagrant/standup_app/app/controllers/application_controller.rb": [
+        0,
+        0,
+        null,
+        0,
+        0,
+        null,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
         0,
         0,
         0,
         0
       ],
-      "/vagrant/standupapp/app/channels/application_cable/channel.rb": [
+      "/vagrant/standup_app/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/vagrant/standup_app/app/mailers/application_mailer.rb": [
         0,
         0,
         0,
+        0
+      ],
+      "/vagrant/standup_app/app/models/account.rb": [
+        0,
+        null,
+        0,
+        0,
+        null,
         0
       ]
     },
-    "timestamp": 1510613812
+    "timestamp": 1510750867
   }
 }
